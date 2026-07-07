@@ -15,7 +15,7 @@
   email: "g15339050275@163.com",
   job-intention: "C++开发工程师",
   age: "24",
-  github-id: "g15339050275-cpu",
+  github-id: "Lil0Rain",
 )
 #v(-1.2em)
 = 教育经历

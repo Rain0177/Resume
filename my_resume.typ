@@ -10,7 +10,7 @@
 
 #show: resume-header.with(
   author: "郭沁阳",
-  telephone: "153-3905-0275",
+  telephone: "15339050275",
   profile-image: "./pic/9353386b6c14fbf608b7a256e8d8a768.jpg",
   email: "g15339050275@163.com",
   job-intention: "C++开发工程师",
@@ -50,7 +50,7 @@
 
 #resume-entry(
   title: "基于多网络模型的 KV 存储引擎",
-  subtitle: "C语言独立开发",
+  subtitle: " C语言独立开发",
   date: "2025.07 - 2025.08",
 )[
   *项目描述：*
@@ -87,7 +87,7 @@
 
 #resume-entry(
   title: "基于 C++实现的分布式即时通讯系统",
-  subtitle: "C++ 独立开发",
+  subtitle: " C++ 独立开发",
   date: "2026.03 - 2026.06",
 )[
   *项目描述：*
@@ -103,6 +103,9 @@
   *技术栈：* C++、 mysql、 Redis、 Kafka、 ZooKeeper、 Protobuf、Nginx
 ]
 
+= 获奖经历
 
-
-
+- 研究生学业二等奖学金（2024）
+- 全国大学生数学竞赛黑龙江赛区一等奖（2023）
+- CET4
+- CET6
